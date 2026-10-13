@@ -1,0 +1,9 @@
+
+# Compiled Java files
+*.class
+
+# Saved original hash
+original_hash.txt
+
+# VS Code settings
+.vscode/
